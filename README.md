@@ -1,16 +1,4 @@
-# 风哥AI工作流集合 - 200+ 实用生产力工作流
-
-
-## 🌟 分享精神
-
-嗨，大家好！我是风哥（AI 博主，微信：fenggeliaoai），专注教你用 AI 构建高效工作流。之前在我的“Fengge风哥聊AI”公众号和视频中，我分享过从零搭建工作流的教程。今天，我开源这个“200哥工作流”仓库，帮助你一键处理 AI 任务。欢迎 star、fork 或加我微信讨论！
-
-
-
-## 👨‍💻 项目背景
-
-作为一名专注于AI应用的开发者，我深知工具的力量。这200+个工作流不仅仅是代码，更是解决实际问题的实践集合。
-
+# AI工作流集合
 
 ## 🔧 使用说明
 
@@ -27,32 +15,8 @@
 如果您熟悉 Git，这是最快捷的方法。打开您的终端或命令行工具，运行以下命令克隆本仓库到本地：
 
 ```bash
-git clone https://github.com/your-username/ai-workflows.git
+git clone https://github.com/xdimtech/coze-workflow-example.git
 ```
-
-#### 方法二：直接下载 ZIP 压缩包
-
-如果您不使用 Git，可以按照以下步骤操作：
-
-1.  在项目主页，点击绿色的 **`<> Code`** 按钮，然后在下拉菜单中选择 **`Download ZIP`**。
-
-    <p align="center">
-      <img src="images/834d9fba-1112-4ab0-8e98-9cd3c81f7735.png" alt="点击 Code 按钮后选择 Download ZIP" width="800">
-    </p>
-
-2.  下载完成后，找到这个 ZIP 文件并将其解压缩。
-
-    <p align="center">
-      <img src="images/0d01550f-7275-42ba-8b16-0fa2345e56de.png" alt="对下载的 ZIP 文件进行解压缩" width="800">
-    </p>
-
-3.  解压后，您会得到一个文件夹，里面包含了所有的工作流 `.json` 文件。
-
-    <p align="center">
-      <img src="images/56f778df-8658-4c16-8afe-b3b26182ee55.png" alt="解压缩后的文件夹内容" width="800">
-    </p>
-
----
 
 ### 第二步：在 Coze 中导入工作流
 
@@ -328,5 +292,3 @@ git clone https://github.com/your-username/ai-workflows.git
 | 233 | 视频 | `X265_Vmntiaowu` | 网红美女跳舞 |
 | 234 | 视频 | `X266_Vdujunvhai` | 独居治愈女孩VLOG新版 |
 | 235 | 视频 | `X267_Vmiaobi` | 妙笔生花微观视频 |
-
-
